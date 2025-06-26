@@ -1,5 +1,3 @@
-# Portfolio
-My Portfolio
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
